@@ -37,8 +37,7 @@ This application predicts probable toxic substances based on observed symptoms, 
 Clone repository:
 
 ```bash
-git clone https://github.com/somyaaa07/poise-setection.git
-cd poise-setection/frontend
+https://github.com/Nikesh9987/poison-detection-V3.git
 ```
 
 Install dependencies:
