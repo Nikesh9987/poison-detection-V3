@@ -1,0 +1,26 @@
+toxin_id,toxin_name,category,severity,description
+T01,Organophosphate Compounds,Pesticide,SEVERE,"Chlorpyrifos, Monocrotophos, Phorate, Malathion"
+T02,Aluminium Phosphide,Pesticide,CRITICAL,"Celphos, Alphos, Quickphos — tablets/pellets"
+T03,Arsenic,Heavy Metal,SEVERE,"Arsenic trioxide, Sodium arsenite — acute/chronic"
+T04,Mercury,Heavy Metal,SEVERE,Mercuric chloride — inorganic; Methyl mercury — organic
+T05,Morphine / Heroin / Opioids,Alkaloid/Drug,SEVERE,"Opium alkaloids — morphine, codeine, heroin"
+T06,Strychnine,Alkaloid/Drug,CRITICAL,Nux vomica — plant alkaloid
+T07,Cyanide,Volatile/Gas,CRITICAL,"KCN, NaCN, HCN gas, Amygdalin/bitter almonds"
+T08,Carbon Monoxide,Volatile/Gas,CRITICAL,"Vehicle exhaust, generators, fires, coal stoves — colourless, odourless gas"
+T09,Ethanol / Methanol,Volatile/Gas,SEVERE,Illicit liquor — hooch tragedies India
+T10,Paraphenylenediamine,Dye/Industrial,SEVERE,Hair dye ingestion — common self-harm method in India
+T11,Paraquat,Pesticide,CRITICAL,Gramoxone herbicide — 20% concentrate
+T12,Carbolic Acid / Phenol,Corrosive,SEVERE,"Lysol, Dettol — household corrosive poisoning"
+T13,Barbiturates,Alkaloid/Drug,MODERATE,"Phenobarbitone, Amylobarbitone — sedative overdose"
+T14,Organochlorine Pesticides,Pesticide,SEVERE,"DDT, Endosulfan, Aldrin, Dieldrin, Lindane"
+T15,Zinc Phosphide,Rodenticide/Other,CRITICAL,"Ratol — rural rodenticide, grey/black pellets"
+T16,Datura,Plant/Botanical,MODERATE,"Datura metel, D. stramonium — Jimsonweed/Thorn Apple; Tropane alkaloids: Atropine, Scopolamine, Hyoscyamine"
+T17,Oleander,Plant/Botanical,CRITICAL,"Nerium oleander Thevetia peruviana — Yellow Oleander; Cardiac glycosides: Oleandrin, Neriine, Thevetin A&B"
+T18,Snakebite — Neurotoxic,Envenomation,CRITICAL,"Naja naja — Indian Cobra; Bungarus caeruleus — Common Krait (Big Four India, Elapidae)"
+T19,Snakebite — Haemotoxic,Envenomation,CRITICAL,"Daboia russelii — Russell's Viper; Echis carinatus — Saw-scaled Viper (Big Four India, Viperidae)"
+T20,Kerosene / Petroleum Distillates,Volatile/Gas,SEVERE,accidental paediatric ingestion; household fuel India
+T21,Copper Sulphate,Corrosive,MODERATE,Blue Vitriol — used in rituals and agricultural India; CuSO4·5H2O — bright blue crystals
+T22,Aconite / Aconitine,Plant/Botanical,CRITICAL,Aconitum ferox A. napellus; most toxic Indian plant alkaloid
+T23,Calotropis,Plant/Botanical,MODERATE,"Calotropis gigantea / procera — Latex poisoning; Cardenolide glycosides: Calotropin, Calactin, Uscharidin"
+T24,Benzodiazepines,Alkaloid/Drug,MODERATE,"Diazepam, Alprazolam, Clonazepam, Nitrazepam — common Indian prescription sedatives; frequent in FSL viscera"
+T25,Paracetamol / Acetaminophen,Alkaloid/Drug,SEVERE,"Crocin, Dolo, Tylenol — most common OTC tablet India; Hepatotoxic overdose"
